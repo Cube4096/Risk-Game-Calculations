@@ -23,3 +23,5 @@ What will be added:
   - Better database storage
   - Other attack options
   - Interface
+
+Any problems, contact me on Github
