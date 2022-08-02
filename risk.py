@@ -33,4 +33,3 @@ for def_win_index in range(len(outcomes)):
     else:
         print(def_win_index+1, end="")
     print(" attack succeeds: " + str(1 - round(outcomes[def_win_index], 3)))
-print(solution)
