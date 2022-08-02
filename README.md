@@ -3,7 +3,7 @@ Using python to calculate attacks trough multiple countries
 
 This program uses backtracking to calculate RISK attacking probabilities.
 
-Input: amount of attackers, the defenders of a country/the countries you want to invade (one after the other)
+Input: amount of attackers, the defenders of a country/the countries you want to invade (one after the other) <br />
 Output: the change of a total breaktrough and the change of a defeat at each point (Note: if you wish you can also vieuw the chance of each outcome)
 
 How to use this:
